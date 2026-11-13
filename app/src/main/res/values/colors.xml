@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_void">#02050E</color>
+    <color name="bg_panel">#0A1124</color>
+    <color name="neon_cyan">#00F3FF</color>
+    <color name="neon_blue">#0066FF</color>
+    <color name="neon_purple">#9D00FF</color>
+    <color name="neon_green">#00FF9D</color>
+    <color name="text_primary">#E6F7FF</color>
+    <color name="text_muted">#6B8CAE</color>
+</resources>
