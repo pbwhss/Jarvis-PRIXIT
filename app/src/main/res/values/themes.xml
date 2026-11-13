@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.JarvisUltra" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/neon_cyan</item>
+        <item name="colorPrimaryVariant">@color/neon_blue</item>
+        <item name="colorOnPrimary">@color/bg_void</item>
+        <item name="android:statusBarColor">@color/bg_void</item>
+        <item name="android:navigationBarColor">@color/bg_void</item>
+        <item name="android:windowBackground">@color/bg_void</item>
+    </style>
+</resources>
